@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![MiniCLaw in his hat](https://ibb.co/M75xR4P)
